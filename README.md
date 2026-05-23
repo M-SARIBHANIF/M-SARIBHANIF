@@ -129,7 +129,7 @@ Custom modules, ERP architecture, and bending business logic into submission sin
 ```
 
 **Full-Stack**
-- 🔧 Project Management Applications & financial workflo
+- 🔧 Project Management Applications & financial workflow
 - ⚡ Node.js RESTful APIs → **+75% data processing efficiency**
 - 📊 React.js financial/Project dashboards → **+60% team productivity**
 - 🐳 Docker + CI/CD pipeline setup

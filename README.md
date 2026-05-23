@@ -3,19 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=110&section=header" width="100%"/>
 
 ```
-                ███████╗ █████╗ ██████╗ ██╗██████╗
-                ██╔════╝██╔══██╗██╔══██╗██║██╔══██╗
-                ███████╗███████║██████╔╝██║██████╔╝
-                ╚════██║██╔══██║██╔══██╗██║██╔══██╗
-                ███████║██║  ██║██║  ██║██║██████╔╝
-                ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝
-
-        ██╗  ██╗ █████╗ ███╗  ██╗██╗███████╗
-        ██║  ██║██╔══██╗████╗ ██║██║██╔════╝
-        ███████║███████║██╔██╗██║██║█████╗
-        ██╔══██║██╔══██║██║╚████║██║██╔══╝
-        ██║  ██║██║  ██║██║ ╚███║██║██║
-        ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝╚═╝╚═╝
+___  ___  _____  ___  ______ ___________   _   _   ___   _   _ ___________
+|  \/  | /  ___|| _ \ | ___ \|_   _| ___ \ | | | | / _ \ | \ | |_   _|  ___|
+| .  . | \ `--./ /_\ \| |_/ /  | | | |_/ / | |_| |/ /_\ \|  \| | | | | |_
+| |\/| |  `--. \  _  ||    /   | | | ___ \ |  _  ||  _  || . ` | | | |  _|
+| |  | |_/\__/ / | | || |\ \ _| |_| |_/ / | | | || | | || |\  |_| |_| |
+\_|  |_(_)____/\_| |_/\_| \_|\___/\____/  \_| |_/\_| |_/\_| \_/\___/\_|
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Odoo+Developer+%7C+Islamabad%2C+Pakistan;I+engineer+features.+Bugs+are+a+side+product.;Bent+Odoo+to+my+will.+The+ERP+had+no+choice." alt="Typing SVG" />
@@ -219,9 +212,15 @@ Amazon-scale MERN stack platform with JWT auth, payment integration, Firebase ad
 
 </div>
 
+### `// CONTRIBUTIONS`
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-SARIBHANIF&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-SARIBHANIF/M-SARIBHANIF/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-SARIBHANIF/M-SARIBHANIF/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/M-SARIBHANIF/M-SARIBHANIF/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -244,8 +243,6 @@ Amazon-scale MERN stack platform with JWT auth, payment integration, Firebase ad
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d2137&height=1" width="100%"/>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗

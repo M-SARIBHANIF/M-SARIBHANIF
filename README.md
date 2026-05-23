@@ -34,7 +34,7 @@
 **Full-Stack & Odoo Developer**
 
 *I engineer features. Bugs are a side product — I'd never admit which ones are mine.*
-*Bent Odoo to my will. The ERP didn't have a choice, and neither I.*
+*Bent Odoo to my will. The ERP didn't have a choice, and neither Did I.*
 
 <br/>
 

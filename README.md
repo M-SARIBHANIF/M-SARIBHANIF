@@ -4,9 +4,9 @@
 
 ```
 ___  ___  _____  ___  ______ ___________   _   _   ___   _   _ ___________
-|  \/  | /  ___|| _ \ | ___ \|_   _| ___ \ | | | | / _ \ | \ | |_   _|  ___|
-| .  . | \ `--./ /_\ \| |_/ /  | | | |_/ / | |_| |/ /_\ \|  \| | | | | |_
-| |\/| |  `--. \  _  ||    /   | | | ___ \ |  _  ||  _  || . ` | | | |  _|
+|  \/  | /  ___|/ _ \ | ___ \_   _| ___ \ | | | | / _ \ | \ | |_   _|  ___|
+| .  . | \ `--./ /_\ \| |_/ / | | | |_/ / | |_| |/ /_\ \|  \| | | | | |_
+| |\/| |  `--. \  _  ||    /  | | | ___ \ |  _  ||  _  || . ` | | | |  _|
 | |  | |_/\__/ / | | || |\ \ _| |_| |_/ / | | | || | | || |\  |_| |_| |
 \_|  |_(_)____/\_| |_/\_| \_|\___/\____/  \_| |_/\_| |_/\_| \_/\___/\_|
 ```
@@ -200,15 +200,15 @@ Amazon-scale MERN stack platform with JWT auth, payment integration, Firebase ad
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=M-SARIBHANIF&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=M-SARIBHANIF&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800" height="170"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=M-SARIBHANIF&theme=github-dark-blue&background=0D1117&border=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="170"/>
+<img src="https://streak-stats.demolab.com?user=M-SARIBHANIF&theme=github-dark-blue&background=0D1117&border=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-SARIBHANIF&layout=donut&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-SARIBHANIF&layout=compact&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=c9d1d9&langs_count=8&hide=jupyter+notebook&cache_seconds=1800" height="200"/>
 
 </div>
 
@@ -216,11 +216,9 @@ Amazon-scale MERN stack platform with JWT auth, payment integration, Firebase ad
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-SARIBHANIF/M-SARIBHANIF/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-SARIBHANIF/M-SARIBHANIF/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/M-SARIBHANIF/M-SARIBHANIF/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-SARIBHANIF&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=1a2a4a&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+
+> ⚡ **Want the snake animation?** Add the [GitHub Action](#) to your profile repo — see instructions below.
 
 </div>
 
@@ -245,12 +243,12 @@ Amazon-scale MERN stack platform with JWT auth, payment integration, Firebase ad
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "The system doesn't go down.                              ║
-║    I simply allow it to run."                               ║
-║                                                 — M. Sarib  ║
-╚══════════════════════════════════════════════════════════════╝
+___  ___  _____  ___  ______ ___________   _   _   ___   _   _ ___________
+|  \/  | /  ___|/ _ \ | ___ \_   _| ___ \ | | | | / _ \ | \ | |_   _|  ___|
+| .  . | \ `--./ /_\ \| |_/ / | | | |_/ / | |_| |/ /_\ \|  \| | | | | |_
+| |\/| |  `--. \  _  ||    /  | | | ___ \ |  _  ||  _  || . ` | | | |  _|
+| |  | |_/\__/ / | | || |\ \ _| |_| |_/ / | | | || | | || |\  |_| |_| |
+\_|  |_(_)____/\_| |_/\_| \_|\___/\____/  \_| |_/\_| |_/\_| \_/\___/\_|
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=M-SARIBHANIF&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)

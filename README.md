@@ -12,7 +12,10 @@
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
+</div>
 
+<div align="center">
+  
 ### `Muhammad Sarib Hanif`
 **Full-Stack & Odoo Developer**
 

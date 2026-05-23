@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBiMTQwYmUzYjg3ZmE4YTQwNjM3ZTRhODQ3ZDFlMjE4MTE3OTU3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VwXG45jQW5r9M1vC7z/giphy.gif" width="100%" height="110px" alt="Sliding Code Bug Banner" />
+<img src="./code-bug.svg" width="100%" height="110px" alt="Sliding Code Bug Banner" />
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗

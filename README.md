@@ -26,7 +26,7 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Odoo+Developer+%7C+Islamabad%2C+Pakistan;I+engineer+features.+Bugs+are+a+side+product.;Bent+Odoo+to+my+will.+The+ERP+had+no+choice." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Odoo+Developer+%7C+Islamabad%2C+Pakistan;I+engineer+features.+Bugs+are+a+side+product.;Bent+Odoo+to+my+will.+The+ERP+had+no+choice,+And+Neither+Did+I." alt="Typing SVG" />
 
 <br/>
 

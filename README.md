@@ -215,19 +215,25 @@ Amazon-scale MERN stack platform with JWT auth, payment integration, Firebase ad
 
 <div align="center">
 
-![](https://github-readme-stats.demolab.com/api?username=M-SARIBHANIF&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true)
-&nbsp;&nbsp;
-![GitHub Streak](https://streak-stats.demolab.com?user=M-SARIBHANIF&theme=github-dark-blue&background=0D1117&border=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-SARIBHANIF&theme=github_dark)
+&nbsp;
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-SARIBHANIF&theme=github_dark)
+&nbsp;
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-SARIBHANIF&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-SARIBHANIF&theme=github_dark)
 
 </div>
 
 ### `// CONTRIBUTIONS`
 
-
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=M-SARIBHANIF&theme=darkhub&no-frame=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=M-SARIBHANIF&theme=darkhub&no-frame=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
